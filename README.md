@@ -11,11 +11,11 @@ We evaluated the following 18 pairs from "2021-06-01" on a daily basis.
 
 |pairs   |tangency Portfolio|min variance Portfolio|
 |:------|---------:|---------:|
-|BTCUSD | 0.5880916| 0.9625979|
-|ETHUSD | 0.4119084| 0.0226302|
+|BTCUSD | **0.5880916**| **0.9625979**|
+|ETHUSD | **0.4119084**| **0.0226302**|
 |XRPUSD | 0.0000000| 0.0000000|
 |LTCUSD | 0.0000000| 0.0000000|
-|XMRUSD | 0.0000000| 0.0147719|
+|XMRUSD | 0.0000000| **0.0147719**|
 |XLMUSD | 0.0000000| 0.0000000|
 
 ## Full portfolio
