@@ -1,4 +1,7 @@
 # crypto-portfolio-optimization
+
+[link to R code](https://github.com/costargc/crypto-portfolio-optimization/blob/main/PortfolioOptimization.ipynb)
+
 Crypto portfolio optimization using BatchGetSymbols to get data from yahoo and fPortfolio to calculate the tangencyPortfolio (most efficient) and minvariancePortfolio (less risk).
 
 We evaluated the following 18 pairs from "2021-06-01" on a daily basis.
