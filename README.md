@@ -1,4 +1,4 @@
-# crypto-portfolio-optimization
+# [crypto-portfolio-optimization](https://costargc.github.io/crypto-portfolio-optimization/)
 
 [link to R code](https://github.com/costargc/crypto-portfolio-optimization/blob/main/PortfolioOptimization.ipynb)
 
